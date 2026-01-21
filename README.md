@@ -34,4 +34,5 @@ For the music controler
 <img width="1106" height="447" alt="Capture d&#39;écran 2026-01-09 185059" src="https://github.com/user-attachments/assets/5ae1c7ee-d112-433f-8666-b09c176621d4" />
 <img width="1261" height="615" alt="Capture d&#39;écran 2026-01-07 153820" src="https://github.com/user-attachments/assets/62d4ff7f-f57f-4559-bcae-b95502826572" />
 <img width="1263" height="535" alt="Capture d&#39;écran 2026-01-11 091324" src="https://github.com/user-attachments/assets/3c31cdf5-f2a2-44f7-a7f5-ff44322aa6b3" />
-<img width="754" height="279" alt="Capture d&#39;écran 2026-01-18 085611" src="https://github.com/user-attachments/assets/a7769771-f56d-41bd-8f02-1c2369791f3b" />
+<img width="814" height="299" alt="Capture d&#39;écran 2026-01-21 154202" src="https://github.com/user-attachments/assets/e22dbae8-fd97-4a9e-889f-33e6a7308b71" />
+
