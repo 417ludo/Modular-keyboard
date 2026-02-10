@@ -20,17 +20,17 @@ const int hallPins[4] = {32, 33, 34, 35};
 bool hallState[4] = {false, false, false, false};
 
 // SPI pour Modules Externes (C3)
-#define MY_SCK  18 // Partagé avec 595 si besoin, ou distinct
+#define MY_SCK  18 
 #define MY_MISO 19
 #define MY_MOSI 23
 #define CS_MODULE 15 // Pin CS pour le module connecté
 
 TFT_eSPI tft = TFT_eSPI();
 
-// Map des touches (Simplifié - à adapter à ton layout 60%)
+// Map des touches 
 char keyMap[5][16] = {
   {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p'},
-  // ... remplis les autres lignes ici
+  
 };
 
 bool lastKeyState[5][16] = {false};
