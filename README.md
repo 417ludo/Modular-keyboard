@@ -35,5 +35,5 @@ For the music controler
 <img width="1261" height="615" alt="Capture d&#39;écran 2026-01-07 153820" src="https://github.com/user-attachments/assets/62d4ff7f-f57f-4559-bcae-b95502826572" />
 <img width="1263" height="535" alt="Capture d&#39;écran 2026-01-11 091324" src="https://github.com/user-attachments/assets/3c31cdf5-f2a2-44f7-a7f5-ff44322aa6b3" />
 Onshape CAO link
-https://cad.onshape.com/documents/cf2a722431eec31ce6fb4e22/w/ce202cfc01446b97c48eefc5/e/c140019310891e3fae9f0d91
+https://cad.onshape.com/documents/54b3073e889ccf9bfebaa490/w/e827f2684080e97915fb69b3/e/cd70cfaf3bd823cc9e70ed5d
 
